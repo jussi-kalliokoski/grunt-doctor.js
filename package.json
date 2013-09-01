@@ -1,0 +1,38 @@
+{
+  "name": "grunt-doctor.js",
+  "version": "0.0.0",
+  "description": "A grunt task for generating doctor.js interface definitions",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:jussi-kalliokoski/grunt-doctor.js"
+  },
+  "keywords": [
+    "documentation",
+    "docs",
+    "doctor.js",
+    "idl"
+  ],
+  "author": {
+    "name": "Jussi Kalliokoski",
+    "email": "jussi.kalliokoski@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jussi-kalliokoski/grunt-doctor.js/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-cli": "~0.1.9",
+    "grunt": "~0.4.1",
+    "grunt-contrib-nodeunit": "~0.2.0"
+  },
+  "dependencies": {
+    "doctor.js": "0.0.5"
+  }
+}

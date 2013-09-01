@@ -1,0 +1,1 @@
+[{"name":"LolCat","description":"Description for the class","type":"class","visibility":"public","arguments":[],"returns":[],"throws":[],"implements":[],"inherits":[],"extends":[],"aliases":[],"properties":[],"staticProperties":[],"methods":[],"staticMethods":[],"events":[],"staticEvents":[],"staticClasses":[]}]
